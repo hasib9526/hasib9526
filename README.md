@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasib</h1>
 <h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hasib9526&icon=0&color=0" alt="Profile Visitors" />
+<p align="left">
+  <img src="https://visitcount.itsvg.in/api?id=hasib9526&label=Profile%20Views&color=0&icon=0" alt="Profile Views" />
 </p>
 
 ---
@@ -58,8 +58,8 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/hasib9526" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="hasib9526 LinkedIn" /></a>
-  <a href="mailto:hasib.cse.official@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="hasib9526 Gmail" /></a>
+  <a href="https://www.linkedin.com/in/mohammad--hasib/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="hasib9526 LinkedIn" /></a>
+  <a href="mailto:hasibislam2k18@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="hasib9526 Gmail" /></a>
 </p>
 
 ---
