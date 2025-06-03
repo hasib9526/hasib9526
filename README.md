@@ -19,8 +19,10 @@
 ---
 
 ### 🛠️ Languages and Tools:
+
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,cs,dotnet,git,github,firebase,figma,vscode,androidstudio,mysql" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,python,cpp,cs,dotnet,git,github,firebase,figma,vscode,androidstudio,mysql" />
   <img src="https://img.shields.io/badge/-MS_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/-Machine_Learning-009688?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/-Deep_Learning-512BD4?style=flat&logo=tensorflow&logoColor=white" />
