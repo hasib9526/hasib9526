@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasib</h1>
 <h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
 
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hasib9526&label=Profile%20Views&color=0&icon=0" alt="Profile Views" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hasib9526&color=blue&style=flat" alt="Profile Views" />
+</p>
+
 
 
 ---
