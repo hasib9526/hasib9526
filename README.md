@@ -12,13 +12,20 @@
 - 🌱 Currently enhancing my skills in **State Management (GetX & Riverpod), REST API Integration**, and **Firebase**.
 - 👯 I’m looking to collaborate on **Open Source Flutter Projects**.
 - 💬 Ask me about **Flutter, Dart, Clean Architecture**, and **Mobile App Performance Optimization**.
-- 📫 Reach me at: **hasib.cse.official@gmail.com**
+- 📫 Reach me at: **hasibislam2k18@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *I turn coffee ☕ into code 💻*
 
 ---
 
 ### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,cs,dotnet,git,github,firebase,figma,vscode,androidstudio,mysql" />
+  <img src="https://img.shields.io/badge/-MS_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine_Learning-009688?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Deep_Learning-512BD4?style=flat&logo=tensorflow&logoColor=white" />
+</p>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,git,github,firebase,figma,vscode,androidstudio" />
 </p>
