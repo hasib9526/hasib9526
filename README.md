@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasib</h1>
 <h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
 
-<!-- GitHub Profile View Counter -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=hasib9526&label=Profile%20Views&color=0e75b6&style=flat-square" alt="hasib9526 Profile Views"/>
-    </td>
-  </tr>
-</table>
-
-
-
 ---
 
 - 🔭 I’m currently working as a **Flutter Developer** at **Bitopi Group**, contributing to ERP and IT solutions.
