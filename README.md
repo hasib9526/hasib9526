@@ -28,9 +28,7 @@
   <img src="https://img.shields.io/badge/-Deep_Learning-512BD4?style=flat&logo=tensorflow&logoColor=white" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,git,github,firebase,figma,vscode,androidstudio" />
-</p>
+
 
 ---
 
