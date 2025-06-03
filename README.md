@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasib</h1>
-<h3 align="center">A passionate Mobile App Developer from Bangladesh</h3>
+<h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=hasib9526&icon=0&color=0" alt="Profile Visitors" />
@@ -7,11 +7,12 @@
 
 ---
 
-- 🔭 I’m currently working on **Flutter-based E-commerce and Utility Apps**
-- 🌱 I’m currently learning **State Management, REST API Integration, and Firebase**
-- 👯 I’m looking to collaborate on **Open Source Flutter Projects**
-- 💬 Ask me about **Flutter, Dart, and Mobile App Architecture**
-- 📫 How to reach me: **hasib.cse.official@gmail.com**
+- 🔭 I’m currently working as a **Flutter Developer** at **Bitopi Group**, contributing to ERP and IT solutions.
+- 💼 Experienced in building **E-commerce**, **Utility**, and **Enterprise-grade Flutter applications**.
+- 🌱 Currently enhancing my skills in **State Management (GetX & Riverpod), REST API Integration**, and **Firebase**.
+- 👯 I’m looking to collaborate on **Open Source Flutter Projects**.
+- 💬 Ask me about **Flutter, Dart, Clean Architecture**, and **Mobile App Performance Optimization**.
+- 📫 Reach me at: **hasib.cse.official@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *I turn coffee ☕ into code 💻*
 
